@@ -1,7 +1,7 @@
 #	Objetivos	do	Projeto
 Versão:	1.1
 ##	Objetivo	Geral
-Criar	um	repositório	de	documentação com	regras	de	validação	e	rastreabilidade.
+Criar um repositório de documentação com regras de validação e rastreabilidade.
 ##	Objetivos	Específicos
 1.	Definir	estrutura	de	pastas	e	normas	de	escrita.
 2.	Registar	decisões	e	ações	de	reuniões.
